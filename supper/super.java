@@ -1,3 +1,4 @@
+package supper;
 class Superclass
 {
     int number = 56;
